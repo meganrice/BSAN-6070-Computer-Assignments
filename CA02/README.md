@@ -12,11 +12,17 @@ In this exercise we shall train the model with set of emails labelled as either 
 **To Import/Run:**
 
 import os
+
 import numpy as np
+
 from collections import Counter
+
 from sklearn.naive_bayes import GaussianNB
+
 from sklearn.metrics import accuracy_score
+
 from google.colab import drive
+
 drive.mount('/content/drive')
 
 **Notes for reviewer:**
