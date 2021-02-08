@@ -5,8 +5,8 @@ In this exercise we shall train the model with set of emails labelled as either 
 
 Data:
 - Find under CA02 Folder in zipped files
-train-mails (442 files)
-test-mails (260 files)
+- train-mails (442 files)
+- test-mails (260 files)
 
 To Import:
 import os
