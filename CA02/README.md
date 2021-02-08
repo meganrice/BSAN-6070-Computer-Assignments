@@ -9,13 +9,13 @@ Data:
 - test-mails (260 files)
 
 To Import:
-import os
-import numpy as np
-from collections import Counter
-from sklearn.naive_bayes import GaussianNB
-from sklearn.metrics import accuracy_score
-from google.colab import drive
-drive.mount('/content/drive')
+- import os
+- import numpy as np
+- from collections import Counter
+- from sklearn.naive_bayes import GaussianNB
+- from sklearn.metrics import accuracy_score
+- from google.colab import drive
+- drive.mount('/content/drive')
 
 Notes for reviewer:
 - Assumes you have the data saved in the same folder path as layed out in the instructions pdf '/content/drive/My Drive
