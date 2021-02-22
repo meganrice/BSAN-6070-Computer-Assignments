@@ -9,7 +9,7 @@ The dataset is obtained from the Census Bureau and represents salaries of people
 
 Data:
 
-Find in CA03 Folder in zipped file.
+The data for parts 1-8 is the census_data.csv file and the data for part 9 is the CA03-Automation.csv file.
 
 To Import:
 
