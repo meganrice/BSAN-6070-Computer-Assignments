@@ -14,17 +14,29 @@ Find in CA03 Folder in zipped file.
 To Import:
 
 import os
+
 import numpy as np
+
 import pandas as pd
+
 import matplotlib as plt
+
 import matplotlib.pyplot as pltpy
+
 from sklearn.tree import DecisionTreeClassifier
+
 from sklearn.preprocessing import LabelEncoder
+
 from sklearn.externals.six import StringIO  
+
 from IPython.display import Image  
+
 from sklearn.tree import export_graphviz
+
 import pydotplus
+
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, roc_auc_score, plot_roc_curve, roc_curve, RocCurveDisplay, recall_score, precision_score, f1_score
+
 import seaborn as sns
 
 Notes for reviewer:
