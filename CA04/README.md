@@ -10,6 +10,8 @@ The dataset is obtained from the Census Bureau and represents salaries of people
 
 •	Number of instances (Rows): 48,842
 
+
+
 To Import:
 
 import numpy as np
@@ -34,6 +36,8 @@ from xgboost import XGBClassifier
 
 from sklearn.metrics import accuracy_score, roc_auc_score
 
+
+
 Notes for reviewer:
 
 Every section in the CA04 - Ensemble Models.ipynb is labeled the same as the instructions PDF. I have also added some sub-headings to help show what I am doing in various steps. 
@@ -45,5 +49,7 @@ Make sure you run everything in the order that it is shown.
 There are comments in the code to help explain what the code is doing at every step!
 
 If you have any questions or something is not running properly on your end, please reach out to me on MS Teams! Happy Grading! :)
+
+
 
 Here is a link to it on google colab: https://colab.research.google.com/drive/1bN86_lUurEa7FbD1HFa3ccmqFZfkdhRu?usp=sharing
