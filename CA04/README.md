@@ -52,4 +52,4 @@ If you have any questions or something is not running properly on your end, plea
 
 
 
-Here is a link to it on google colab: https://colab.research.google.com/drive/1bN86_lUurEa7FbD1HFa3ccmqFZfkdhRu?usp=sharing
+Here is a link to it on google colab: https://colab.research.google.com/drive/1fbBDjvSQVQlD1W-x2ZuV43WSeizVtvnW?usp=sharing
