@@ -1,4 +1,4 @@
-## This README file is for CA05: Logistic Regression
+## This README file is for CA06: kNN based Recommender Engine
 
 ### Data Source and Contents:
 
