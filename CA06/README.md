@@ -20,7 +20,7 @@ from sklearn.neighbors import KNeighborsClassifier, NearestNeighbors
 
 Make sure you run everything in the order that it is shown.
 
-Each cells comments should clearly explain the steps associated.
+Each cell's comments should clearly explain the steps associated.
 
 If you have any questions or something is not running properly on your end, please reach out to me on MS Teams! Happy Grading! :)
 
