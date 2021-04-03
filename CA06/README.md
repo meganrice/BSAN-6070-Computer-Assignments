@@ -16,11 +16,11 @@ import pandas as pd
 
 from sklearn.neighbors import KNeighborsClassifier, NearestNeighbors
 
-### Notes for reviewer:
+### Notes for Reviewer:
 
 Make sure you run everything in the order that it is shown.
 
-There are comments in the code to help explain what the code is doing at every step!
+Each cells comments should clearly explain the steps associated.
 
 If you have any questions or something is not running properly on your end, please reach out to me on MS Teams! Happy Grading! :)
 
